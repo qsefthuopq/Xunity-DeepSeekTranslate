@@ -3,7 +3,7 @@ Using DeepSeek for XUnity.AutoTranslator
 
 基于[XUnity-Auto-Translator-Gemini](https://github.com/MediocreYYYY/XUnity-Auto-Translator-Gemini)的代码使用AI进行修改，调用DeepSeek的API用于翻译
 
-[h1]AutoTranslatorConfig.ini[/h1]
+# AutoTranslatorConfig.ini
 修改设置
 
 [Service]
@@ -15,7 +15,7 @@ Endpoint=CustomTranslate
 
 Url=http://127.0.0.1:5000/translate
 
-[h1]Python[/h1]
+# Python
 修改API后使用Python运行
 Python trans.py
 
