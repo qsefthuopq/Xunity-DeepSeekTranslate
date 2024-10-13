@@ -14,7 +14,7 @@ def translate():
     if content is None:
         return "Missing text content in request!"
 
-    api_key = "sk-71cf7eeacff84db7894ec9b4cdb5dc10"
+    api_key = "输入API KEY"
 
     Language = "zh"
 
