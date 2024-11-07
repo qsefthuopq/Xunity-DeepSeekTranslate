@@ -17,6 +17,9 @@ Endpoint=CustomTranslate
 Url=http://127.0.0.1:5000/translate
 
 # Python
+注意需要安装拓展
+pip install openai
+
 修改trans.py内Api_key后使用Python运行
 
 Python trans.py
